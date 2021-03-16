@@ -1,3 +1,3 @@
 # ModalPresentation
 
-A description of this package.
+Пакет для управления состоянием отображения View представленных с помощью .sheet
